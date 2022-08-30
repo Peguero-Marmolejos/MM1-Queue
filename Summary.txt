@@ -1,0 +1,14 @@
+Emily Peguero Marmolejos
+**************************** SUMMARY *************************
+System Time : 11014.5205
+Delayed Events : 442
+Total Jobs : 1000
+Total Idle Time : 4668.0015
+Delayed Time : 2271.824
+Busy Time : 6346.519Service Time : 5056.772
+Average Interarrival Time : 5.9577475 
+Average Delay Time : 5.139873
+**Average System Time : 11.014521
+**Average Interarrival Time : 4.6680017
+**Average Busy Period : 6.346519
+**Average Service Time : 5.0567718
